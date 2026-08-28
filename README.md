@@ -300,7 +300,3 @@ The dataset is relatively small and consists of short text statements. Therefore
 B.Tech – Computer Science Engineering (AI & ML)
 
 GitHub: https://github.com/mahi4221
-
----
-
-⭐ If you find this project useful, feel free to explore the notebook and experiment with different TF-IDF settings, ANN architectures, and hyperparameters.
